@@ -21,9 +21,12 @@ GitHub is a web-based platform that uses Git for version control. It provides a 
 
 ////////////////////////////
 
-* How to Upload a project to github ?
+* How to Upload a project to github (for the first time)?
+
 1- git init (one time only for each project)
+
 2- git add . (. = all files)
+
 send files from local repository(folder) to working area (to be tracked).
 
 3- git commit -m "رسالة مختصرة عن سبب الرفع"
@@ -34,6 +37,12 @@ send files from working area to staging area.
 5- git remote add origin https://github.com/MohamedElfalaky/iti_7_flutter_internship.git (first time only)
 
 6- git push -u origin main (first time only.. it will be git push)
+
+
+How to Upload a project to github (after first time)?
+1- git add .
+2- git commit -m "رسالة من اختيارك"
+3- git push 
  */
 
 

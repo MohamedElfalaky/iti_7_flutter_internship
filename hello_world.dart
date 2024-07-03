@@ -35,7 +35,7 @@ send specific files from local repository(folder)(مستقر في مصر) to wor
 
 4- git branch -M main (one time only for each project).
 
-5- git remote add origin https://github.com/MohamedElfalaky/iti_7_flutter_internship.git (first time only)
+5- git remote add origin(repository) https://github.com/MohamedElfalaky/iti_7_flutter_internship.git (first time only)
 
 6- git push -u origin main (first time only.. it will be git push)
 sends file from stageing area to remote repo (السعودية- الجيت هاب)
@@ -51,3 +51,4 @@ How to Upload a project to github (after first time)?
 
 
 
+// تعديل

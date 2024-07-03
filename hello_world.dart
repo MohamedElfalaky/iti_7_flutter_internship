@@ -45,6 +45,8 @@ How to Upload a project to github (after first time)?
 1- git add .
 2- git commit -m "رسالة من اختيارك"
 3- git push 
+4- git pull (from github)
+
  */
 
 

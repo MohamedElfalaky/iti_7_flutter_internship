@@ -45,12 +45,17 @@ How to Upload a project to github (after first time)?
 1- git add .
 2- git commit -m "رسالة من اختيارك"
 3- git push 
-4- git pull (from github)
-5- git branch branch name (create new branch)
-6- git branch (show current branches)
-7- git checkout branch name (navigate to a branch)
+/////////
 
-(5, 7) --->    8- git checkout -b branchName
+
+additional commands 
+1- git pull (from github)
+2- git branch branch name (create new branch)
+3- git branch (show current branches)
+4- git checkout branch name (navigate to a branch)
+5- git clone repoLink ----> download a repo
+
+(1, 3) --->    8- git checkout -b branchName
 
  */
 
